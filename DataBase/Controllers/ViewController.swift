@@ -24,6 +24,10 @@ class ViewController: UIViewController {
             self.arrName = result
             self.tableView_Info.reloadData()
         }
+        
+        
+        print("commited Value")
+        
     }
     
     override func didReceiveMemoryWarning() {
