@@ -26,7 +26,7 @@ class ViewController: UIViewController {
         }
         
         
-        print("commited Value")
+        //print("commited Value")
         
     }
     
